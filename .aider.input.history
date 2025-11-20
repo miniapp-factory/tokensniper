@@ -1,0 +1,96 @@
+
+# 2025-11-20 16:01:03.300212
++Code the following app
++```
++App Name: TokenSniper
++
++Description / Functions (paste this into Mini App Factory):
++
++TokenSniper is a simple and fast mini app that scans newly created tokens on the Base network.
++The app helps users discover fresh token launches and evaluate basic risk indicators before interacting with them.
++
++Core Features:
++ 1. New Token Feed
++ • Displays a list of tokens that were recently deployed on Base.
++ • Shows deployment time and contract creation details.
++ 2. Basic Token Info
++ • For each token, display:
++• Total supply
++• Contract creator
++• Deployment timestamp
++• Basic metadata (if available)
++ 3. Risk Assessment
++ • Provide a simple risk evaluation: Low / Medium / High.
++ • Base this assessment on factors like:
++• Liquidity presence
++• Contract age
++• Is ownership renounced
++• Any suspicious patterns
++ 4. User Tips
++ • Offer safety advice for new tokens:
++• “Always verify liquidity lock.”
++• “Check if the contract owner still holds too many tokens.”
++• “Avoid tokens with extremely low liquidity.”
++ 5. Simple Query Mode
++ • Users can request more details about any token from the list.
++ • Example: “Tell me more about Token #3.”
++
++Purpose:
++TokenSniper helps users quickly identify new tokens, understand basic risks, and avoid obvious scams on the Base network.
++
++Style:
++Clear, concise, helpful, beginner-friendly.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-20 16:01:03.301134
++Code the following app
++```
++App Name: TokenSniper
++
++Description / Functions (paste this into Mini App Factory):
++
++TokenSniper is a simple and fast mini app that scans newly created tokens on the Base network.
++The app helps users discover fresh token launches and evaluate basic risk indicators before interacting with them.
++
++Core Features:
++ 1. New Token Feed
++ • Displays a list of tokens that were recently deployed on Base.
++ • Shows deployment time and contract creation details.
++ 2. Basic Token Info
++ • For each token, display:
++• Total supply
++• Contract creator
++• Deployment timestamp
++• Basic metadata (if available)
++ 3. Risk Assessment
++ • Provide a simple risk evaluation: Low / Medium / High.
++ • Base this assessment on factors like:
++• Liquidity presence
++• Contract age
++• Is ownership renounced
++• Any suspicious patterns
++ 4. User Tips
++ • Offer safety advice for new tokens:
++• “Always verify liquidity lock.”
++• “Check if the contract owner still holds too many tokens.”
++• “Avoid tokens with extremely low liquidity.”
++ 5. Simple Query Mode
++ • Users can request more details about any token from the list.
++ • Example: “Tell me more about Token #3.”
++
++Purpose:
++TokenSniper helps users quickly identify new tokens, understand basic risks, and avoid obvious scams on the Base network.
++
++Style:
++Clear, concise, helpful, beginner-friendly.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-20 16:02:05.650928
++apply changes
+
+# 2025-11-20 16:02:05.651405
++apply changes
